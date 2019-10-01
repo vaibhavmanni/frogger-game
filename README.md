@@ -3,7 +3,7 @@
 * The game is coded using object oriented javascript utilising code provided by Udacity.
 
 ## RUN GAME
-* Play it live [here](https://vaibhavmanni.github.io/frogger-game/) 
+* Play it live [here.](https://vaibhavmanni.github.io/frogger-game/) 
              
              OR
              
