@@ -13,5 +13,5 @@ The objective of Player is to move across three rows of enemy bugs  using arrow 
 Once a player succesfully crosses the three rows ad reaches water, the Player wins...
 
 
-##CONTROLS
+##  CONTROLS
 Use the arrows keys to move your player model up, down, left or right.
