@@ -4,8 +4,11 @@
 
 ## RUN GAME
 *Play it live [here](https://vaibhavmanni.github.io/frogger-game/) 
+             
+             OR
+             
 *Extract the Project 3 zip file and run the index.html file.
-The game will launch in your default browser.
+*The game will launch in your default browser.
 
 
 ## INSTRUCTIONS
